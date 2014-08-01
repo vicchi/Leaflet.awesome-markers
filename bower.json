@@ -1,0 +1,23 @@
+{
+    "name": "Leaflet.awesome-markers",
+    "dependencies": {
+        "leaflet": "~0.7.3"
+    },
+    "main": [
+        "dist/leaflet.awesome-markers.css",
+        "dist/leaflet.awesome-markers.js",
+        "dist/leaflet.awesome-markers.min.js",
+        "dist/leaflet.awesome-markers.scss",
+        "dist/images/markers-matte.png",
+        "dist/images/markers-matte@2x.png",
+        "dist/images/markers-plain.png",
+        "dist/images/markers-shadow.png",
+        "dist/images/markers-shadow@2x.png",
+        "dist/images/markers-soft.png",
+        "dist/images/markers-soft@2x.png"
+    ],
+    "ignore": [
+        ".*"
+    ],
+    "license": "MIT"
+}
